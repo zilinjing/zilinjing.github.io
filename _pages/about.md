@@ -23,7 +23,7 @@ From Jan 2023 to Aug 2023, I was an international visiting student at Yale Unive
 You can reach me at `zj2398{at}columbia.edu`.
 
 ## Research
-**Interests:** foundation models for event streams (e.g., electronic health records),
+**Research Interest:** foundation models for event streams (e.g., electronic health records),
 causal inference, reinforcement learning, and in-context learning.
 
 ## News
