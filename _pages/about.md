@@ -32,6 +32,6 @@ Causal Inference, Reinforcement Learning, and In-context Learning.
 - **[2025/05]** New benchmark [paper](https://arxiv.org/pdf/2505.16941) on foundation model for structured Electronic Health Records (EHRs).
 - **[2024/09]** Started my CS Ph.D. at **Columbia**.
 <!-- - **[2024/05]** Completed my **B.Eng.** in Computer Science at **CUHKSZ** (2020–2024); selected as an **Outstanding Graduate** (top <1%). -->
-- **[2023/07]** One paper accepted to **ICML 2023 Workshop** Interpretable Machine Learning in Healthcare [Paper]((https://openreview.net/pdf?id=MJq0lr8EJ4)).
+- **[2023/07]** One paper accepted to **ICML 2023 Workshop** Interpretable Machine Learning in Healthcare [Paper](https://openreview.net/pdf?id=MJq0lr8EJ4).
 <!-- - **[2023/01]** Joined **Yale** as a visiting student. --> 
 <!-- 🎉 -->
