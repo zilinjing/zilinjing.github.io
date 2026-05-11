@@ -27,11 +27,11 @@ You can reach me at `zj2398{at}columbia.edu`.
 Causal Inference, Reinforcement Learning, and In-context Learning.
 
 ## News
-- **[2026/05]** 🎉 I will join Microsoft Health Futures Team(https://www.microsoft.com/en-us/research/lab/microsoft-health-futures/) as a research intern this summer. Open to coffee chat if you are around Seattle. 
-- **[2026/05]** Our paper L2M(https://arxiv.org/pdf/2510.12624) on Active Feature Acquisition with In-Context Learning is accpeted by ICML 2026!
-- **[2025/05]** New benchmark paper (https://arxiv.org/pdf/2505.16941) on Foundation Model for structured Electronic Health Records (EHRs).
+- **[2026/05-2026/08]** 🎉 I will join the Microsoft Health Futures [team](https://www.microsoft.com/en-us/research/lab/microsoft-health-futures/) as a research intern this summer. Open to coffee chat if you are around Seattle. 
+- **[2026/05]** Our paper [L2M](https://arxiv.org/pdf/2510.12624) on active feature acquisition with In-Context Learning is accpeted by ICML 2026!
+- **[2025/05]** New benchmark [paper](https://arxiv.org/pdf/2505.16941) on foundation model for structured Electronic Health Records (EHRs).
 - **[2024/09]** Started my CS Ph.D. at **Columbia**.
 <!-- - **[2024/05]** Completed my **B.Eng.** in Computer Science at **CUHKSZ** (2020–2024); selected as an **Outstanding Graduate** (top <1%). -->
-- **[2023/07]** One paper accepted to **ICML 2023** (IMLH workshop) [OpenReview]((https://openreview.net/pdf?id=MJq0lr8EJ4)).
+- **[2023/07]** One paper accepted to **ICML 2023 Workshop** Interpretable Machine Learning in Healthcare [Paper]((https://openreview.net/pdf?id=MJq0lr8EJ4)).
 <!-- - **[2023/01]** Joined **Yale** as a visiting student. --> 
 <!-- 🎉 -->
