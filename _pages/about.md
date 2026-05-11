@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+# title: "About"
 author_profile: true
 redirect_from:
   - /about/
@@ -23,14 +23,15 @@ From Jan 2023 to Aug 2023, I was an international visiting student at Yale Unive
 You can reach me at `zj2398{at}columbia.edu`.
 
 ## Research
-**Research Interest:** foundation models for event streams (e.g., electronic health records),
-causal inference, reinforcement learning, and in-context learning.
+**Research Interest:** Foundation Models for Event Streams (e.g., electronic health records),
+Causal Inference, Reinforcement Learning, and In-context Learning.
 
 ## News
-- **[2025/11]** Seeking **Summer 2026 Research Scientist / ML Engineer** internship opportunities — feel free to contact me. 
-- **[2025/09]** 🎉 New paper on Active Feature Acquisition with In-Context Learning : **Learning-to-Measure (L2M)** [arXiv](https://arxiv.org/pdf/2510.12624).
-- **[2025/05]** 🎉 New Paper on Foundation Model for structured Electronic Health Records (EHRs): **Fomoh** [arXiv](https://arxiv.org/pdf/2505.16941).
+- **[2026/05]** 🎉 I will join Microsoft Health Futures Team(https://www.microsoft.com/en-us/research/lab/microsoft-health-futures/) as a research intern this summer. Open to coffee chat if you are around Seattle. 
+- **[2026/05]** Our paper L2M(https://arxiv.org/pdf/2510.12624) on Active Feature Acquisition with In-Context Learning is accpeted by ICML 2026!
+- **[2025/05]** New benchmark paper (https://arxiv.org/pdf/2505.16941) on Foundation Model for structured Electronic Health Records (EHRs).
 - **[2024/09]** Started my CS Ph.D. at **Columbia**.
 <!-- - **[2024/05]** Completed my **B.Eng.** in Computer Science at **CUHKSZ** (2020–2024); selected as an **Outstanding Graduate** (top <1%). -->
-- **[2023/07]** 🎉 One paper accepted to **ICML 2023** (IMLH workshop) [OpenReview]((https://openreview.net/pdf?id=MJq0lr8EJ4)).
-<!-- - **[2023/01]** Joined **Yale** as a visiting student. -->
+- **[2023/07]** One paper accepted to **ICML 2023** (IMLH workshop) [OpenReview]((https://openreview.net/pdf?id=MJq0lr8EJ4)).
+<!-- - **[2023/01]** Joined **Yale** as a visiting student. --> 
+<!-- 🎉 -->
